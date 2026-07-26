@@ -1,2 +1,3 @@
-# Research-Paper-Analyser
-AI-Powered Academic Paper Analysis Tool  Automatically extracts key insights from research papers using NLP &amp; ML. Upload PDFs to get instant analysis: title, abstract summary, methodology, algorithms, results, and future scope. Built with React + Python FastAPI.
+Research Paper Analyser is an AI-powered web application that automatically extracts and analyzes key insights from academic research papers using Natural Language Processing and Machine Learning. Users can upload PDF papers and receive instant structured analysis including title, abstract summary, keywords, methodology, algorithms used, dataset information, results, advantages, and future scope. The application is built with React.js for the frontend, Python FastAPI for the backend, and MongoDB for database storage, featuring a modern glass-morphism user interface with secure user authentication
+
+Try the live application here: [Research Paper Analyser](https://earnest-kangaroo-3215f2.netlify.app)
