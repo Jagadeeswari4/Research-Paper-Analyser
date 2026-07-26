@@ -40,13 +40,13 @@ cd Research-Paper-Analyser
 
 Step 2: Backend Setup
 cd backend
-pip install -r requirements.txt
-python -m uvicorn main:app --reload --port 8000
+pip install -r requirements.txt,
+python -m uvicorn main:app --reload --port 8000,
 The backend will run on `http://localhost:8000`
 
 Step 3: Frontend Setup (Open New Terminal)
-cd frontend
-npm install
+cd frontend,
+npm install,
 npm run dev
 
 Step 4: Open in Browser
